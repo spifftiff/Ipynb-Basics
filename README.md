@@ -4,19 +4,19 @@ Welcome to the ipynb Basics Git repository! 🎉 This repository is a personal p
 
 📝 Basics of Jupyter Notebooks
 
--🔍 My notes on .ipynb files and how they work.
+  -🔍 My notes on .ipynb files and how they work.
 
--⚙️ Steps to install and set up Jupyter Notebook.
+  -⚙️ Steps to install and set up Jupyter Notebook.
 
--🧭 Basic navigation tips I’ve learned.
+  -🧭 Basic navigation tips I’ve learned.
 
 💻 Code Examples
 
--🐍 Simple Python examples I’m working on, like variables, loops, and functions.
+  -🐍 Simple Python examples I’m working on, like variables, loops, and functions.
 
--📊 Data analysis basics with pandas and NumPy.
+  -📊 Data analysis basics with pandas and NumPy.
 
--📈 Basic visualizations using Matplotlib.
+  -📈 Basic visualizations using Matplotlib.
 
 
 
